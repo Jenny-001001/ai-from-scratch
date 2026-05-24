@@ -1,2 +1,2 @@
-# ai-from-scratch
-Appointment with wolf-359
+# AI-from-scratch
+Appointment with Wolf-359
